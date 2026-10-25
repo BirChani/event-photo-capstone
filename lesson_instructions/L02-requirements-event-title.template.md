@@ -163,7 +163,6 @@ explanation: Clearly defining the project scope helps prevent misunderstandings,
 ## 8. Questions, assumptions, ambiguities
 | Question or assumption | Why it matters | Evidence/status | Who decides? |
 | --- | --- | --- | --- |
-## Answer:
 | What are the system's functional requirements? | To ensure the system operates as intended and meets user needs | Users should be interviewed, and documentation reviewed | The development team, together with stakeholders |
 | Will all users know how to use the system? | Risk that they may be unable to utilize the system for its intended purposes | The required skills need to be assessed | Project managers, in collaboration with the training team |
 | Are there any unclear non-functional requirements? | To ensure compliance with standards and performance expectations | The documentation is not entirely clear on this point | The QA team and the requirements analysis team |
